@@ -1,6 +1,6 @@
 # Space Invaders
 
-Space Invaders originally created by Atari reinvented in a website with leaderboards. 
+Space Invaders originally created by Atari reinvented in a website with online leaderboards. 
 
 ## Installation
 
